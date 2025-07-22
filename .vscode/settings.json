@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.swiftlint": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "swiftlint.enable": true,
+    "swiftlint.path": "/opt/homebrew/bin/swiftlint"
+}
