@@ -7,6 +7,8 @@ Examples (input --> output):
 999  --> "999"
 -100 --> "-100" */
 
-func numberToString(number: Int) -> String { 
+func numberToString(number: Int) -> String {
   return String(number)
 }
+
+

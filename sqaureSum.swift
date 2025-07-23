@@ -26,4 +26,3 @@ func squareSum(_ vals: [Int]) -> Int {
   }
   return total
 }
-
